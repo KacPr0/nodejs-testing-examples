@@ -46,4 +46,4 @@ Run example tests using the command:
 
 ```
 npm run express-test
-```
+```Trigger test ino_dev
